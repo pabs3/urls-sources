@@ -171,3 +171,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://planet-commandline.org/+snipp
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://planet-commandline.org/+emacs/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://planet-commandline.org/+german/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://planet.debianforum.de/atom.xml
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ooh.directory/random/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ooh.directory/added/
