@@ -2,7 +2,10 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.oursqlc
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.mageia.org/es/atom.php
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://trac.raumfahrtagentur.org/planet/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.banshee-project.org/planet_subdomain/rss20.xml
+random=RANDOM;all=1;keep_all=1;depth=2;deep_extract=1;url=https://www.boffosocko.com/wp-links-opml.php?link_cat=1521
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.gnome.gr/atom.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://alexsci.com/rss-blogroll-network/rss-archive.xml
+https://www.monotone.ca/intheblogs.php
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.wordpress.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://clam-project.org/planet-atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.sympy.org/rss10.xml
@@ -10,20 +13,25 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.classpa
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.evolix.org/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.jabber.org/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://planetsuse.org/
+https://dm.hn/index.opml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.phpmyadmin.net/atom.xml
+http://www.go-mono.com/monologue/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://blogs.perl.org/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=http://planet.ubuntu-us.org/rss20.xml
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://identosphere.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ada-planet.blogspot.com/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://golem.ph.utexas.edu/~distler/planet/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=2;deep_extract=1;url=https://codeberg.org/mclemens/Ham-Radio-RSS-Feeds/raw/branch/main/hamradio.opml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.bugzilla.org/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://pt.planet.wikimedia.org/rss20.xml
+https://x-berg.de/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://ar.planet.wikimedia.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://updo.debian.net/index.atom
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.mozilla.org/thunderbird/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.57north.org.uk/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://davorg.theplanetarium.org/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.postgis.net/atom.xml
+http://planet.ocaml.org/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://netbsd.fi/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.gentoo.org/universe/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://postgresqlfr.github.io/planete/feed.atom
@@ -49,6 +57,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://es.planet.wiki
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://it.planet.wikimedia.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.qt.io/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.scheme.org/atom.xml
+http://planet.pld-linux.org/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://ro.planet.wikimedia.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.virt-tools.org/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.python.org.br/atom.xml
@@ -58,6 +67,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=http://planet.linuxtag
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://gstreamer.freedesktop.org/planet/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=http://planet.gpul.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planetillumos.org/rss.xml
+https://dm.hn/?posts=1
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.osgeo.org/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.mozilla.org/research/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://blog.xfce.org/feed
@@ -72,6 +82,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.raku.or
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.linux.it/eventi/eventi.rss
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.mozilla.org/ateam/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://m68k.info/index.xml
+https://clmoocring.jgregorymcverry.com/clmooc-planet/ dead - HTTP 404
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planeteclipse.org/planet/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://campaignwiki.org/podcast-fr/feed.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.grml.org/rss20.xml
@@ -94,6 +105,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=http://www.agujerodelm
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.gnu.org/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.hamakor.org.il/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.luv.asn.au/atom.xml
+https://git.ortolo.eu/planet-catho.git/tree/config.ini
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://campaignwiki.org/osr/feed.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.scummvm.org/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=http://planeta.br.gnome.org/atom.xml
@@ -110,8 +122,10 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.drupal.org
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.twistedmatrix.com/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.kde.org/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://pl.python.org/planeta/feeds/atom
+https://bearblog.dev/discover/feed/?newest=True
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.planetpuppet.org/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://skeptic.theplanetarium.org/atom.xml
+random=RANDOM;all=1;keep_all=1;depth=2;deep_extract=1;url=https://unicyclic.com/indieweb/rss/index.php?type=opml&page=index
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.mysql.com/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://raimonster.com/satellite-lua/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=2;deep_extract=1;url=https://opendev.org/openstack/openstack-planet/raw/branch/master/planet-openstack-org.opml
@@ -122,15 +136,21 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planetrdf.com/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://x-berg.de/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.debian.org/es/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://blogs.openstreetmap.org/atom.xml
+https://stream.indieweb.org/ dead - no RSS feeds, fediverse
+#random=RANDOM;all=1;keep_all=1;depth=1;url=https://edu407.jgregorymcverry.com/feeds.html
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.debian.org/deriv/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://campaignwiki.org/podcast/feed.xml
+https://indieweb.org/directory
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://balham.theplanetarium.org/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.ellak.gr/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.kernel.org/rss20.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://kagi.com/api/v1/smallweb/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet-im.com/rss20.xml
+https://indieweb.xyz/ dead - domain parked
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.freegamedev.net/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.ubuntu.com/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://de.planet.wikimedia.org/rss20.xml
+https://planet.jamesg.blog/ dead - DNS NXDOMAIN
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planete.april.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://ru.planet.wikimedia.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.planetpython.org/rss20.xml
@@ -147,6 +167,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://mariadb.org/pl
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planetpython.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.postgresql.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=http://freedesktop.org/software/pulseaudio/planet/atom.xml
+https://indieweb.org/discovery
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.freedesktop.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.debianforum.de/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://box.saveweb.org/i/?a=rss&hours=168
@@ -157,10 +178,12 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://en.planet.wiki
 random=RANDOM;all=1;keep_all=1;depth=2;deep_extract=1;url=https://github.com/rayascott/fearless-rust-bloggers/raw/master/fearless-rust-bloggers.opml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet-commandline.org/+german/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.squat.net/feed/
+https://bearblog.dev/discover/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=http://planet.sbcl.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.mageia.org/fr/atom.php
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://fr.planet.wikimedia.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.debian.org/fr/atom.xml
+https://dryusdan.space/blogroll/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.gentoo.org/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://feed.perfplanet.com/rss.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=http://planet-india.randomink.org/rss20.xml
@@ -170,8 +193,10 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=http://maemo.org/news/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://archivesblogs.com/feed
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://zh.planet.wikimedia.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.samba.org/rss20.xml
+https://nelson.cloud/my-favorite-blogs/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.documentfoundation.org/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet-commandline.org/atom.xml
+https://nelson.cloud/how-i-discover-new-blogs/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.mageia.org/pt/atom.php
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.afpy.org/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://campaignwiki.org/rpg/feed.xml
@@ -184,8 +209,10 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://devplanet.one.
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.freeipa.org/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.mozilla.org/projects/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.planet-php.org/atom/
+https://git.ortolo.eu/planet-auto-hebergement.git/tree/config.ini
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=http://sn.printf.net/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.factorcode.org/feed.xml
+https://portal.mozz.us/gemini/warmedal.se/~antenna/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planeta.gnome.cl/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.fsfe.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://jakartablogs.ee/rss20.xml
@@ -193,4 +220,27 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.gnome.o
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://blogroll.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.mageia.org/it/atom.php
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.mozillazine.org/rss20.xml
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=http://fedoraplanet.org/atom.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://fedoraplanet.org/atom.xml
+https://stream.indieweb.org/
+https://unicyclic.com/indieweb/rss/index.php?type=opml&page=index
+https://fdroid.gitlab.io/planet/atom.xml
+https://edu407.jgregorymcverry.com/feeds.html
+https://boffosocko.com/wp-links-opml.php?link_cat=1521
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ooh.directory/random/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ooh.directory/added/
+https://derelict.garden/
+https://noblogs.org/activity/
+https://blogs.sindominio.net/
+https://planet.ffdn.org/
+https://planet.ubuntu-fr.org/
+https://blogs.hn/
+https://searchmysite.net/search/new/
+https://indieblog.page/dailyfeed?num=10
+https://indieblog.page/weeklyfeed?num=25
+https://minifeed.net/welcome
+https://minifeed.net/global
+https://minifeed.net/blogs
+https://planete.facil.qc.ca/
+https://planet.mate-desktop.org/
+https://planet-if.com/
+https://planet.deepin.org/
