@@ -76,3 +76,4 @@ random=RANDOM;deep_extract=1;url=https://sfb1288audiothek.podigee.io/feed/mp3
 random=RANDOM;deep_extract=1;url=https://www.wrint.de/category/zum_thema/feed/
 random=RANDOM;deep_extract=1;url=https://wissenschaftspodcasts.de/rss-blog/
 random=RANDOM;deep_extract=1;url=https://alterwasgeht.podcaster.de/alterwasgeht.rss
+random=RANDOM;deep_extract=1;url=https://feed.podbean.com/womenofwarpod/feed.xml

@@ -1,2 +1,27 @@
 https://ooh.directory/random/
 https://kagi.com/smallweb
+https://bubbles.town/
+https://blogroll.org/
+
+https://blogs.hn/ (by @surprisetalk)
+
+https://hnpwd.github.io/ (I am one of the maintainers)
+
+https://iii.social/ (by @freshman_dev)
+
+https://indieblog.page/ (by @splitbrain)
+
+https://kagi.com/smallweb/ (by @freediver)
+
+https://marginalia-search.com/ (by @marginalia_nu)
+
+https://minifeed.net/ (by @freetonik)
+
+https://susam.net/wander/ (I developed this)
+
+https://text.blogosphere.app/ (by @ramkarthikk)
+
+https://wiby.me/
+https://susam.codeberg.page/wcn/.
+https://www.submission.directory/
+https://pastes.io/rcPg2RLC

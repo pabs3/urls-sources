@@ -265,3 +265,7 @@ https://old.calculate-linux.org/blogs
 https://minifeed.net/blogs
 http://planet.sabayon.org/?p=1673
 https://planet.gluster.org/
+https://www.compiz-fusion.org/planet_subdomain/
+https://planet.ubuntuusers.de/
+https://planet.hackerspaces.org/
+https://blogroll.org/ and https://randomblog.rocks/
